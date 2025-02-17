@@ -29,7 +29,7 @@ import Onto from "../../wallet/assets/Onto.png";
 import Rainbow from "../../wallet/assets/Rainbow.png";
 import Solfare from "../../assets/solfare.png";
 import CryptoCom from "../../wallet/assets/CryptoCom.png";
-import Exodus from "../../assets/exodus.png";
+import Exodus from "../../assets/Exodus.png";
 import Okx from "../../assets/okx.png";
 import Trezor from "../../assets/trezor.png";
 
