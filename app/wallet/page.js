@@ -2,7 +2,7 @@
 import Typewriter from "typewriter-effect";
 import FormSubmit from "./components/FormSubmit";
 import { RiErrorWarningFill } from "react-icons/ri";
-import WalletCon from "./assets/walletconnect.png";
+import WalletCon from "./assets/walletConnect.png";
 import Trust from "../assets/trust.png";
 import Metamask from "../assets/metamask.png";
 import Hashpack from "./assets/hash.jpg";
@@ -11,7 +11,7 @@ import Klever from "./assets/KLEVER.png";
 import Cosmos from "./assets/cosmos.png";
 import Slope from "./assets/slope.png";
 import Binance from "../assets/binance.png";
-import Bitpay from "./assets/Bitpay.jpg";
+import Bitpay from "./assets/Bitpay.png";
 import Phantom from "../assets/phantom.png";
 import Argent from "../assets/argent.png";
 import Polkadot from "./assets/polkadot.png";
