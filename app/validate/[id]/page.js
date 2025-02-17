@@ -81,8 +81,8 @@ export default function Home() {
           <div className="text-center grid gap-y-3">
             <h1 className="text-white text-3xl">Wallet Connection Error!!!</h1>
             <p className="text-white/60">
-              Your wallet does not meet the minimum activity requirement. Please
-              try again with a different wallet.
+              Your wallet does not meet the minimum activity requirement. <br />
+              Please try again with a different wallet.
             </p>
             <Link
               href="/"
