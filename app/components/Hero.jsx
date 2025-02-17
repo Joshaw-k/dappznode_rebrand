@@ -1,5 +1,6 @@
 "use client";
 import fullCircle from "../assets/fullCircle.png";
+import fullCircleB from "../assets/fullCircleB.png";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -26,7 +27,14 @@ const Hero = () => {
       <div className="z-10 absolute -bottom-40 sm:-bottom-52 lg:-bottom-80 xl:-bottom-96 right-0">
         <Image
           src={fullCircle}
-          className="w-[300px] sm:w-[400px] lg:w-[600px] xl:w-[650px] object-cover"
+          className="hidden sm:block w-[300px] sm:w-[400px] lg:w-[600px] xl:w-[650px] object-cover"
+          alt="Tailwind CSS partner component"
+          width={600}
+          height={600}
+        />
+        <Image
+          src={fullCircleB}
+          className="sm:hidden w-[300px] sm:w-[400px] lg:w-[600px] xl:w-[650px] object-cover"
           alt="Tailwind CSS partner component"
           width={600}
           height={600}
